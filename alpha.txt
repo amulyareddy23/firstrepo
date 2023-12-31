@@ -1,5 +1,0 @@
-<<<<<<< Updated upstream
-new alpha file-edited-edited track/amb
-=======
-new alpha file-edited-edited track/amb-edited again after cloning from track/amb branch-edit
->>>>>>> Stashed changes
